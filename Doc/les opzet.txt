@@ -1,0 +1,34 @@
+ideas: 
+- Flower opening further on light from photosensor
+https://www.youtube.com/watch?v=mf3DyGiXhXs
+“time lapse watch flowers bloom"
+-random frame on button push: bingo machine!
+https://www.youtube.com/watch?v=g8eep4x14BI
+“pump up to 100"
+-Bus drive away on distance sensor
+https://www.youtube.com/watch?v=aoOIk4yI4ZY
+“last day bus driving away"
+
+Intro.
+Basic Sensors. Often based on chemical or physical characteristic
+In contrast to complex sensors (f.i. a camera, a kinect)
+
+
+PART I intro / concept
+-explain the idea of controlling a movie
+-explain the different sensors
+-let them think of an idea
+
+PART II electronics
+-how sensors work: changing resistance. (or ready made circuit)
+-explain voltage on digital and analog sensors
+-explain Arduino & Breadboard
+-classical write arduino code
+-let them hook up and test sensors
+
+PART III programming
+-explain Max
+-let them open the patch and import their movie
+-change arduino code to get data. 
+-the idea of thresh holding
+-Write a patch
